@@ -1846,7 +1846,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: dd34382681f481541bdac16ab3c0c1de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1911,4 +1911,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TopOffset: {x: 1, y: -1, z: 1}
+  PreviousTile: {fileID: 0}
   Neighbours: []
